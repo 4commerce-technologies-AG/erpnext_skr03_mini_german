@@ -58,8 +58,14 @@ tbd...
 
 1. [ERPNext](https://erpnext.com/)
 1. [SKR03 DATEV](https://www.datev.de/web/de/datev-shop/material/kontenrahmen-datev-skr-03/)
-1. [GitHub ERPNext - Chart of Accounts](https://github.com/frappe/erpnext/tree/develop/erpnext/accounts/doctype/account/chart_of_accounts)
 
+
+<br/>
+### Ressources
+
+1. [Issues and discussion](https://github.com/4commerce-technologies-AG/erpnext_skr03_mini_german/issues)
+2. [ERPNext Forum - SKR03](https://discuss.erpnext.com/t/german-chart-of-accounts-skr03-skr04/4778/1)
+1. [GitHub ERPNext - Chart of Accounts](https://github.com/frappe/erpnext/tree/develop/erpnext/accounts/doctype/account/chart_of_accounts)
 
 
 <br/>
